@@ -1,7 +1,5 @@
 # Work Sans Cyrillic Typeface
 Work Sans Cyr is a cyrillic fork of Work Sans
-
-![image](https://github.com/user-attachments/assets/6ad7adc4-943b-4cf7-bfa9-bc04f6718b9c)
   
 - **Languages:** Russian, Belorusian, Ukrainian
 - **Styles:** Regular, Bold
