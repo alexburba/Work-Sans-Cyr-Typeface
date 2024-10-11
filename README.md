@@ -15,6 +15,7 @@ Work Sans Cyr is a cyrillic fork of Work Sans
 ![image](https://github.com/user-attachments/assets/287b4b32-a607-46b0-b889-4bafd6c86e13)
 ![image](https://github.com/user-attachments/assets/57c742bc-e4e7-4272-b01e-b4227f849a66)
 ![image](https://github.com/user-attachments/assets/1bc158bd-53dc-44c3-ba48-42fa083fa944)
+![image](https://github.com/user-attachments/assets/cd2839af-529c-48e9-bd4d-2329a6bb6fe2)
 ![image](https://github.com/user-attachments/assets/1b2b2c69-5366-46e6-bbb9-cd21d77c27cd)
 
 
