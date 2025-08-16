@@ -14,7 +14,7 @@ Work Sans Cyr is a cyrillic fork of Work Sans
 <img width="1920" height="1080" alt="abtype-auto-specimen 073" src="https://github.com/user-attachments/assets/32cf73c2-ceb1-4c83-b977-a3b65c152976" />
 <img width="1920" height="1080" alt="abtype-auto-specimen 071" src="https://github.com/user-attachments/assets/06feea24-ab0b-4f6e-bd82-72be7536e107" />
 <img width="1920" height="1080" alt="abtype-auto-specimen 074" src="https://github.com/user-attachments/assets/f4fdad8d-4372-4b72-ba71-c92ac542fb21" />
-<img width="1920" height="1080" alt="abtype-auto-specimen 075" src="https://github.com/user-attachments/assets/2b6e1102-a20d-44dd-a265-a84ffbe0f4c2" />
+<img width="1920" height="1080" alt="abtype-auto-specimen 032" src="https://github.com/user-attachments/assets/93be22d4-2f04-4f2f-bf6f-9fdff548f69c" />
 <img width="1920" height="1080" alt="abtype-auto-specimen 076" src="https://github.com/user-attachments/assets/087745a8-af54-49b8-addb-cfe35523b8b4" />
 <img width="1920" height="1080" alt="abtype-auto-specimen 077" src="https://github.com/user-attachments/assets/1a958e69-516e-47c2-9f9d-7ebe18dd6c8b" />
 <img width="1920" height="1080" alt="abtype-auto-specimen 078" src="https://github.com/user-attachments/assets/f3fa7f25-6c6f-45ac-a018-e56c7eadb7bd" />
