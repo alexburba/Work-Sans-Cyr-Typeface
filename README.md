@@ -2,14 +2,17 @@
 Work Sans Cyr is a cyrillic fork of Work Sans
   
 - **Languages:** Russian, Belorusian, Ukrainian
-- **Styles:** Regular, Bold
-- **Kerning:** 5%
+- **Styles:** Light, Regular, Bold
+- **Kerning:** 45%
 - **Plans**: a proper kerning for all the cyrillics someday
 - **License:** SIL OFL 1.1
-- **In russian:** это версия Work Sans с добавленной кириллицей (RU, BY, UA) для начертаний Regular и Bold. Может быть cделаю в будущем нормальный кернинг для кириллицы. Пока же он есть только для пар, что бросались в глаза по ходу работы, но не более.
+- **In russian:** это версия Work Sans с добавленной кириллицей (RU, BY, UA) для начертаний Light, Regular и Bold. Может быть cделаю в будущем нормальный кернинг для кириллицы. Пока же он есть только для пар, что бросались в глаза по ходу работы, но не более.
 
 
-<img width="1920" height="1080" alt="abtype-auto-specimen 069" src="https://github.com/user-attachments/assets/12525834-3f6f-42de-afd5-4fc0d150e8bd" />
+<img width="2124" height="872" alt="image" src="https://github.com/user-attachments/assets/90bc8180-0fee-44d6-bd89-8601f56047da" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6a67d2dc-abd3-4ab7-b3a3-89e95b1035d8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45481e13-e6b8-40ab-8d65-93475692f6f2" />
+
 <img width="1920" height="1080" alt="abtype-auto-specimen 070" src="https://github.com/user-attachments/assets/9dfeaeb1-f4f8-46a0-b521-1953538a5dcb" />
 <img width="1920" height="1080" alt="abtype-auto-specimen 073" src="https://github.com/user-attachments/assets/32cf73c2-ceb1-4c83-b977-a3b65c152976" />
 <img width="1920" height="1080" alt="abtype-auto-specimen 071" src="https://github.com/user-attachments/assets/06feea24-ab0b-4f6e-bd82-72be7536e107" />
