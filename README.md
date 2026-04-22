@@ -1,10 +1,11 @@
 # Work Sans Cyrillic Typeface
 Work Sans Cyr is a cyrillic fork of Work Sans
-  
-- **Languages:** Russian, Belorusian, Ukrainian
-- **Styles:** Light, Regular, Bold
+
+
+- **Languages:** ✅(RU,BY,UA) ⏳(SR,BG)
+- **Styles:** ✅(Bold, Regular, Light) 
 - **Kerning:** 45%
-- **Plans**: Serbian, Bulgarian + proper kerning for all cyrillics
+- **Plans**: proper kerning for all cyrillics
 - **License:** SIL OFL 1.1
 - **In russian:** это версия Work Sans с добавленной кириллицей (RU, BY, UA) для начертаний Light, Regular и Bold. Может быть cделаю в будущем нормальный кернинг для кириллицы и доделаю сербицу и болгарицу же он есть только для пар, что бросались в глаза по ходу работы, но не более.
 
