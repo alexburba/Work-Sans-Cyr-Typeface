@@ -12,4 +12,4 @@ Work Sans Cyr is a cyrillic fork of Work Sans
 - **License:** SIL OFL 1.1
 - **In russian:** это версия Work Sans с добавленной кириллицей (RU, BY, UA) для начертаний Light, Regular и Bold. Может быть cделаю в будущем нормальный кернинг для кириллицы и доделаю сербицу и болгарицу.
 
-# Full download at [burba.pro/roundo-cyrillic/](http://burba.pro/roundo-cyrillic/)
+# Full download at [burba.pro/work-sans-cyrillic/](http://burba.pro/work-sans-cyrillic/)
